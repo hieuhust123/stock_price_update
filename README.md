@@ -1,1 +1,1 @@
-Scripts used to explore state-of-the-art papers and update stock price daily
+Scripts used to update stock price daily
