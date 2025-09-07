@@ -1,0 +1,79 @@
+
+📊 Stock Summary @ 2025-06-30 13:21:13 (REGULAR)
+Timeframe: 6d
+------------------------------------------------------------
+Market is open. Today's price is not final!
+
+🔹 MAGNIFICENT 7
+----------------------------------------
+  NVDA: No data available.
+  AMZN: No data available.
+  META: No data available.
+  AAPL: No data available.
+  GOOGL: No data available.
+  MSFT: No data available.
+
+🔹 AI
+----------------------------------------
+  PLTR: No data available.
+  RDDT: No data available.
+  CRWV: No data available.
+
+🔹 ENERGY
+----------------------------------------
+  CEG: No data available.
+  VST: No data available.
+  NRG: No data available.
+  OKLO: No data available.
+  GEV: No data available.
+  GE: No data available.
+
+🔹 CHIP
+----------------------------------------
+  AMD: No data available.
+  ARM: No data available.
+  MU: No data available.
+  TSM: No data available.
+
+🔹 CYBERSECURITY
+----------------------------------------
+  CRWD: No data available.
+  RBRK: No data available.
+  FTNT: No data available.
+
+🔹 FINTECH
+----------------------------------------
+  HOOD: No data available.
+  IBKR: No data available.
+  BULL: No data available.
+  AFRM: No data available.
+
+🔹 BANK
+----------------------------------------
+  JPM: No data available.
+
+🔹 EV
+----------------------------------------
+  BYDDY: No data available.
+
+🔹 QUANTUM
+----------------------------------------
+  QUBT: No data available.
+  QBTS: No data available.
+  IBM: No data available.
+
+🔹 E-COMMERCE
+----------------------------------------
+  CPNG: No data available.
+  BABA: No data available.
+  NFLX: No data available.
+
+🔹 ENTERTAINMENT
+----------------------------------------
+  SPOT: No data available.
+  ANET: No data available.
+
+🔹 OTHER
+----------------------------------------
+  BTC-USD: No data available.
+
