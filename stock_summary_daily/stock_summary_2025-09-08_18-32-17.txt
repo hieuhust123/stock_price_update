@@ -1,0 +1,99 @@
+
+📊 Stock Summary @ 2025-09-08 18:32:17 (POST-MARKET)
+Timeframe: 6d
+------------------------------------------------------------
+Post-market session. Prices are after-hours.
+
+🔹 MAGNIFICENT 7
+----------------------------------------
+  NVDA: 🔼 UP | Post-market: $168.24 | Δ $1.22 (0.73%)
+  AMZN: 🔼 UP | Post-market: $236.15 | Δ $3.81 (1.64%)
+  META: 🔼 UP | Post-market: $753.50 | Δ $1.05 (0.14%)
+  AAPL: 🔽 DOWN | Post-market: $238.00 | Δ $-1.69 (-0.71%)
+  GOOGL: 🔽 DOWN | Post-market: $234.23 | Δ $-0.77 (-0.33%)
+  MSFT: 🔼 UP | Post-market: $499.00 | Δ $4.00 (0.81%)
+  ORCL: 🔼 UP | Post-market: $240.94 | Δ $8.14 (3.50%)
+
+🔹 AI
+----------------------------------------
+  PLTR: 🔼 UP | Post-market: $156.20 | Δ $3.09 (2.02%)
+  RDDT: 🔽 DOWN | Post-market: $231.99 | Δ $-8.01 (-3.34%)
+  CRWV: 🔼 UP | Post-market: $99.20 | Δ $10.11 (11.35%)
+
+🔹 ENERGY
+----------------------------------------
+  CEG: 🔽 DOWN | Post-market: $298.82 | Δ $-2.76 (-0.92%)
+  VST: 🔽 DOWN | Post-market: $187.77 | Δ $-0.23 (-0.12%)
+  NRG: 🔽 DOWN | Post-market: $147.60 | Δ $-0.06 (-0.04%)
+  OKLO: 🔼 UP | Post-market: $71.08 | Δ $1.29 (1.85%)
+  GEV: 🔼 UP | Post-market: $597.00 | Δ $14.92 (2.56%)
+  GE: 🔽 DOWN | Post-market: $275.53 | Δ $-3.70 (-1.32%)
+
+🔹 CHIP
+----------------------------------------
+  AMD: 🔽 DOWN | Post-market: $150.78 | Δ $-0.36 (-0.24%)
+  ARM: 🔼 UP | Post-market: $139.14 | Δ $0.97 (0.70%)
+  MU: 🔼 UP | Post-market: $131.46 | Δ $0.09 (0.07%)
+  TSM: 🔼 UP | Post-market: $246.95 | Δ $3.54 (1.45%)
+  AVGO: 🔼 UP | Post-market: $345.65 | Δ $10.76 (3.21%)
+  ASML: 🔼 UP | Post-market: $794.62 | Δ $12.92 (1.65%)
+  AMAT: 🔽 DOWN | Post-market: $162.05 | Δ $-0.70 (-0.43%)
+
+🔹 CYBERSECURITY
+----------------------------------------
+  CRWD: 🔼 UP | Post-market: $429.86 | Δ $12.23 (2.93%)
+  RBRK: 🔼 UP | Post-market: $96.09 | Δ $5.16 (5.67%)
+  FTNT: 🔼 UP | Post-market: $80.36 | Δ $1.53 (1.94%)
+  ANET: 🔽 DOWN | Post-market: $140.57 | Δ $-2.28 (-1.60%)
+
+🔹 FINTECH
+----------------------------------------
+  HOOD: 🔼 UP | Post-market: $117.33 | Δ $16.08 (15.88%)
+  IBKR: 🔼 UP | Post-market: $61.07 | Δ $0.91 (1.51%)
+  BULL: 🔼 UP | Post-market: $13.41 | Δ $0.48 (3.71%)
+  AFRM: 🔽 DOWN | Post-market: $86.14 | Δ $-1.21 (-1.39%)
+
+🔹 BANK
+----------------------------------------
+  JPM: 🔽 DOWN | Post-market: $292.03 | Δ $-2.35 (-0.80%)
+  TD: 🔽 DOWN | Post-market: $74.25 | Δ $-0.21 (-0.29%)
+
+🔹 EV
+----------------------------------------
+  BYDDY: 🔼 UP | Post-market: $13.54 | Δ $0.13 (0.97%)
+
+🔹 QUANTUM
+----------------------------------------
+  QUBT: 🔼 UP | Post-market: $15.25 | Δ $0.14 (0.93%)
+  QBTS: 🔼 UP | Post-market: $15.44 | Δ $0.07 (0.46%)
+  IBM: 🔼 UP | Post-market: $256.11 | Δ $7.58 (3.05%)
+  IONQ: 🔽 DOWN | Post-market: $41.15 | Δ $-0.65 (-1.56%)
+
+🔹 E-COMMERCE
+----------------------------------------
+  CPNG: 🔼 UP | Post-market: $31.26 | Δ $2.35 (8.13%)
+  BABA: 🔼 UP | Post-market: $141.60 | Δ $6.02 (4.44%)
+  UNH: 🔼 UP | Post-market: $320.39 | Δ $5.00 (1.59%)
+
+🔹 ENTERTAINMENT
+----------------------------------------
+  SPOT: 🔼 UP | Post-market: $718.01 | Δ $10.82 (1.53%)
+  NFLX: 🔼 UP | Post-market: $1246.23 | Δ $2.41 (0.19%)
+
+🔹 OTHER
+----------------------------------------
+  BTC-USD: 🔼 UP | Post-market: $112323.11 | Δ $1155.49 (1.04%)
+
+🏆 Top 3 Best Performers:
+  HOOD: 🔼 UP | Post-market: $117.33 | Δ $16.08 (15.88%)
+  CRWV: 🔼 UP | Post-market: $99.20 | Δ $10.11 (11.35%)
+  CPNG: 🔼 UP | Post-market: $31.26 | Δ $2.35 (8.13%)
+💔 Top 3 Worst Performers:
+  RDDT: 🔽 DOWN | Post-market: $231.99 | Δ $-8.01 (-3.34%)
+  ANET: 🔽 DOWN | Post-market: $140.57 | Δ $-2.28 (-1.60%)
+  IONQ: 🔽 DOWN | Post-market: $41.15 | Δ $-0.65 (-1.56%)
+
+📈 Top 3 Best Performers (Timeframe: 6d):
+  AVGO: Δ $48.26 (16.23%) | 297.39 → 345.65
+  HOOD: Δ $13.25 (12.74%) | 104.03 → 117.28
+  MU: Δ $12.45 (10.46%) | 119.01 → 131.46

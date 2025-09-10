@@ -199,9 +199,12 @@ stock_categories = {
 
 now = datetime.now(pytz.timezone("US/Eastern"))
 filename = f"stock_summary_{now.strftime('%Y-%m-%d_%H-%M-%S')}.txt"
-output_path = os.path.join("stock_update_daily", filename)
+output_path = os.path.join("stock_summary_daily", filename)
 
 def main():
+    # Ensure the output directory exists
+    os.makedirs("stock_summary_daily", exist_ok=True)
+    
     with open(output_path, "w", encoding="utf-8") as f, redirect_stdout(f):
         summary = StockSummary(my_stocks, stock_categories, timeframe="6d")
         summary.run_summary(n=3)
